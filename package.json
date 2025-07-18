@@ -7,8 +7,8 @@
     "lib"
   ],
   "scripts": {
-    "build": "rm -r lib && tsc",
-    "build:watch": "rm -r lib && tsc --watch",
+    "build": "tsc",
+    "build:watch": "tsc --watch",
     "format": "npx prettier src --write",
     "test:ts": "vitest --dir src --threads false --run",
     "test:watch": "vitest --dir src --threads false",
