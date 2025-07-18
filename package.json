@@ -1,7 +1,7 @@
 {
-  "name": "@cicada-lang/partech",
+  "name": "@xieyuheng/partech",
   "version": "0.2.5",
-  "repository": "github:cicada-lang/partech",
+  "repository": "github:xieyuheng/partech",
   "main": "lib/index.js",
   "files": [
     "lib"

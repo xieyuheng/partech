@@ -13,7 +13,7 @@ Parsing Techniques -- A language for writing grammars and generating parsers.
 Install the package:
 
 ```sh
-npm install @cicada-lang/partech
+npm install @xieyuheng/partech
 ```
 
 TODO This package is used in many languages of cicada project,
