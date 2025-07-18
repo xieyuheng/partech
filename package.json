@@ -1,6 +1,6 @@
 {
   "name": "@xieyuheng/partech",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "repository": "github:xieyuheng/partech",
   "main": "lib/index.js",
   "files": [
